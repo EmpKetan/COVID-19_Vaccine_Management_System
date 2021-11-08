@@ -1,7 +1,6 @@
 from python_lal import *
 from os import startfile
-startfile(r'D:\vaccnie\mysqldig.png')
-startfile(r'D:\vaccnie\COMPUTER SCIENCE PROJECT.docx')
+startfile(r'mysqldig.png')
 
 def menu():
     wel="Welcome to Vaccine Record Management System"
