@@ -2,7 +2,7 @@
 School Project
 
 OBJECTIVE:-
-Objective of this project is to try to present a comprehensive simulation of how a coronavirus vaccine deployment and management system can be made by using Python as front end and MySQL as back end.The program attempts to present a comprehensive simulation by integrating both patient side and the operator side panel into a single program.
+Objective of this project is to try to present a comprehensive simulation of how a coronavirus vaccine deployment and management system can be made by using, Python as front end and MySQL as back end.The program attempts to present a comprehensive simulation by integrating both patient side and the operator side panel into a single program.
 
 You will need:-
 
@@ -28,3 +28,5 @@ How to run:-
 2)Run python file "mains_lal.py"
 
 3)Enjoy
+
+For any help ,email me at :- ketan.github.contact@gmail.com
