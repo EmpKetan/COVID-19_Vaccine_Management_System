@@ -1,4 +1,2 @@
-selenium
-time
-csv
-schedule
+prettytable
+mysql-connector-python
